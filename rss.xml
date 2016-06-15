@@ -4,8 +4,15 @@
         <description><![CDATA[The Crocombe Site]]></description>
         <link>https://thegrid.ai/the-crocombe-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 21:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 21:35:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-crocombe-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple's WWDC 2016 keynote in 10 minutes]]></title>
+            <description><![CDATA[<article><h1>Apple's WWDC 2016 keynote in 10 minutes</h1><p>This year Apple's big WWDC developer conference was full of incremental updates to OS's for the Mac, iPhone, Watch, and TV, as well as moves to open up services like Siri and iMessage to developers.</p></article>]]></description>
+            <link>https://youtu.be/62hQpiPEquI</link>
+            <guid isPermaLink="false">5c86272d-2704-4ec4-b569-295e0002905d</guid>
+            <pubDate>Wed, 15 Jun 2016 21:34:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/956858eb-eaeb-479b-a213-b2d4f49a64ec.jpg">]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Messenger Bags & Laptop Bags | Footwear & Apparel | Chrome Industries]]></title>
-            <description><![CDATA[<article><h1>Messenger Bags & Laptop Bags | Footwear & Apparel | Chrome Industries</h1><p>Messenger Bags, Backpacks, Laptop Bags, Footwear and Apparel</p><img src="http://www.chromeindustries.com/media/wysiwyg/refresh/chrome-home-makeityours-sewer-2x.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Messenger Bags & Laptop Bags | Footwear & Apparel | Chrome Industries</h1><p>Messenger Bags, Backpacks, Laptop Bags, Footwear and Apparel</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3c9cfbb6c7325c27e40638620f93dda/noop.jpg?input=http%3A%2F%2Fwww.chromeindustries.com%2Fmedia%2Fwysiwyg%2Frefresh%2Fchrome-home-makeityours-sewer-2x.jpg"></article>]]></description>
             <link>http://www.chromeindustries.com/</link>
             <guid isPermaLink="false">7f71b689-8cbd-41e7-ae82-d0c7dc0634f8</guid>
             <pubDate>Wed, 15 Jun 2016 21:32:26 GMT</pubDate>
