@@ -19,8 +19,4 @@ navigation:
     url: 'http://apple.com'
     name: Favorite Site
     type: external
-  - id: e0dd4063-1633-4373-8798-95b1f8045c1d
-    url: 2016-06-15-e0dd4063-1633-4373-8798-95b1f8045c1d.html
-    name: Denver
-    type: content
 title: The goings on of the Crocombes in Denver
