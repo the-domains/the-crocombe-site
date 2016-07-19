@@ -14,4 +14,9 @@ layout_spectrum: 0.25850891857407987
 author:
   name: Kevin
 name: The Crocombe Site
+navigation:
+  - id: bd828d0b-47d9-4538-928e-9bc36141d9fc
+    url: 2016-06-15-bd828d0b-47d9-4538-928e-9bc36141d9fc.html
+    name: about us
+    type: content
 title: The goings on of the Crocombes in Denver
