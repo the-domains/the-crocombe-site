@@ -15,8 +15,8 @@ author:
   name: Kevin
 name: The Crocombe Site
 navigation:
-  - id: 'http://apple.com'
+  - name: Favorite Site
     url: 'http://apple.com'
-    name: Favorite Site
     type: external
 title: The goings on of the Crocombes in Denver
+description: 'Shealyn, Kevin, Kai'
